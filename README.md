@@ -1,16 +1,16 @@
 ![Logo](https://thecryptogateway.it/wp-content/uploads/2560px-Uniswap_Logo_and_Wordmark.svg.png)
 
-# 🦄 Uniswap-DataFetcher
+#🦄 Uniswap-DataFetcher
 
 An **EtherJS** tool to extract UniswapV3's pools price feed for **data-driven LP strategies**.
 
-## 🌐 Environment Variables
+##🌐 Environment Variables
 
 To run this project, you will need to add the following variables in your `secrets.json` file:
 
 `API_KEY` for your desired **RPC node provider** (e.g.: Alchemy or Infura).
 
-## 📚 Available Functions
+##📚 Available Functions
 
 Two different functions have been currently developed to fetch UniswapV3's pools price feeds:
 
@@ -66,7 +66,7 @@ blockNumber | min | median | max | volume_USDC | volume_wETH
 26473939 |	194960 | 194963	| 194966 | 66238.024223	| 19.400415499532200
 ...  | ...| ... | ... | ... | ...
 
-## 📜 License
+##📜 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
