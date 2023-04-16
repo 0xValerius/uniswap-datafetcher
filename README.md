@@ -1,7 +1,7 @@
 
 ![Logo](https://thecryptogateway.it/wp-content/uploads/2560px-Uniswap_Logo_and_Wordmark.svg.png)
 
-## Uniswap-DataFetcher
+# Uniswap-DataFetcher
 
 An **EtherJS** tool to extract UniswapV3's pools price feed for **data driven LP strategies.**
 
